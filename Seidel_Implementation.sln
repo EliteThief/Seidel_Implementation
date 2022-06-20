@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seidel_Implementation", "Seidel_Implementation\Seidel_Implementation.csproj", "{127DAF3F-6838-405B-B322-8ACA2A19200A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127DAF3F-6838-405B-B322-8ACA2A19200A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127DAF3F-6838-405B-B322-8ACA2A19200A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127DAF3F-6838-405B-B322-8ACA2A19200A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127DAF3F-6838-405B-B322-8ACA2A19200A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D40C7B2-C1A8-413F-A982-0FA8B1AB0FD4}
+	EndGlobalSection
+EndGlobal
